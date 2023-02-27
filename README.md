@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ai31024
-- 👀 I’m interested in C, Python and Web programming.
+- 👀 I’m interested in C/C++, Python and Web programming.
 - 🌱 I’m currently learning the above mentioned programming languages.
+- 👀 I will learn rust and embedded programming in near future.
 
 <!---
 Ai31024/Ai31024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
