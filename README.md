@@ -2,6 +2,7 @@
 - 👀 I’m interested in C/C++, Python and Web programming.
 - 🌱 I’m currently learning the above mentioned programming languages.
 - 👀 I will learn rust and embedded programming in near future.
+- Спокойная ночь
 
 <!---
 Ai31024/Ai31024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
