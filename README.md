@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ai31024
-- 👀 I’m interested in C/C++, Python and Web programming.
+- 👀 I’m interested in Python and Web programming.
 - 🌱 I’m currently learning the above mentioned programming languages.
-- 👀 I will learn rust and embedded programming in near future.
+- 👀 I will learn cloud services, rust and embedded programming in near future.
 - Спокойная ночь
 
 <!---
