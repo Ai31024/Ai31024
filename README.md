@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ai31024
-- 👀 I’m interested in Python and Web development.
 - 🌱 Currently working on Web development.
-- 👀 I will learn cloud services, rust and embedded programming in near future.
+- 👀 I will learn cloud services, Python, rust and embedded programming in near future.
 - Спокойная ночь
 
 <!---
