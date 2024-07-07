@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ai31024
-- 🌱 Currently working on Web development.
+- 🌱 Currently working on Web development, wish me luck!
 - 👀 I'm interested to learn Cloud services, Python, Rust and Embedded programming in near future.
 - Спокойная ночь
 
